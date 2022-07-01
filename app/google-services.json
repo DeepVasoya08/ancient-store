@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080483337905",
+    "project_id": "rapid-basket-7fecc",
+    "storage_bucket": "rapid-basket-7fecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080483337905:android:5811a1632720e6c396f490",
+        "android_client_info": {
+          "package_name": "com.example.rapidbasket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080483337905-87hoqu0kppkn67f5u0b4d2hdaqmrngn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGsq-Vm5dYOK793Qk-NlWbyjy-Q9Dco-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080483337905-87hoqu0kppkn67f5u0b4d2hdaqmrngn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
